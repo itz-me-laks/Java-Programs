@@ -1,0 +1,34 @@
+operators
+-- operator is a symbol in java used to perform operations
+Types of operator
+1.Unary operator
+   postfix- a++ ,a--
+   prefix-   ++a, --a,  +a, -a, ~, !
+
+2.Arithmetic operator
+   multiplicative-  * ,/ ,%
+   additive         -  +,-
+
+3.Shift operator - << ,>>, >>>
+
+
+4.Relational operator
+   comparison-  <, >,<=,>=,instanceof
+   equality      -   ==,!=
+
+5.Bitwise operator
+    Bitwise AND - &
+    Bitwise Exclusive OR- ^ 
+    Bitwise Inclusive OR- |
+
+6.Logical operator
+    logical AND- &&
+    logical OR  -||
+
+7.Ternary operator -  ?:
+
+8.Assignment operator
+    =,+=,-=,*=,/=,%=,&=,^=,|=,<<=,>>=,<<<=
+    
+    
+       
