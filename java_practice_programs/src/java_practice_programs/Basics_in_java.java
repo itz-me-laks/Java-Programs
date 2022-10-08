@@ -17,6 +17,16 @@ public class Basics_in_java
 		long value=123456789l;
 		int value1=(int)(value);//Explicit type conversion
 		System.out.println(value1);
+		//boolean 
+		if(true)
+		{
+			System.out.println("love code");
+		}
+		
+//		if(false)
+//		{
+//			System.out.println("love code");
+//		}
 		
 		
 
